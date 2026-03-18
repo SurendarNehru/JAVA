@@ -21,8 +21,8 @@ To write a Java program that demonstrates the use of access modifiers through st
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: SHALINI K
-RegisterNumber:21222240095 
+Developed by : NIRAUNJANA GAYATHRI G R
+RegisterNumber : 212222230096
 */
 ```
 
