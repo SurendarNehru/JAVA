@@ -25,8 +25,8 @@ To simulate multiple concurrent deposits into a shared bank account using thread
  ```
 /*
 Program to implement a multi-thread synchronization using Java
-Developed by: SHALINI K
-RegisterNumber:  212222240095
+Developed by : NIRAUNJANA GAYATHRI G R
+RegisterNumber : 212222230096
 */
 ```
 
