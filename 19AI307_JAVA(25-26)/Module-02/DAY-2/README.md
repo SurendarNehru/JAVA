@@ -25,8 +25,8 @@ To write a Java program that demonstrates calling one method from another method
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by : NIRAUNJANA GAYATHRI G R
-RegisterNumber : 212222230096
+Developed by : SURENDAR N
+RegisterNumber : 212222040165
 */
 ```
 
